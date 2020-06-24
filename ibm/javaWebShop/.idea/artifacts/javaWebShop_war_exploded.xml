@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="javaWebShop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaWebShop_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="javaWebShop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
